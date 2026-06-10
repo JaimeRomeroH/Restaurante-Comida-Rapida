@@ -176,6 +176,7 @@ body{
     display: flex;
     overflow: hidden;
     height: calc(100vh - 80px);
+    scroll-behavior: smooth;
 }
 
 .container-productos{
